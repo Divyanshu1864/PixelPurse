@@ -44,7 +44,7 @@ PixelPurse is a simple, intuitive expense tracker designed to help you manage yo
 ### Installation
 
 ```bash
-git clone https://github.com/hiteshmk05/PixelPurse.git
+git clone https://github.com/Divyanshu1864/PixelPurse.git
 cd PixelPurse
 npm install
 cd server
@@ -71,3 +71,4 @@ Frontend:
 npm start
 ```
 Open http://localhost:3000 in your browser.
+
